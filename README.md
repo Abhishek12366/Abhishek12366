@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek saju
-- 👀 I’m interested in 
-- 🌱 I’m currently learning django
+- 👀 I’m interested in python 
+- 🌱 I’m currently learning python-django
 - 💞️ I’m looking to collaborate on python django
 - 📫 How to reach me 
 
